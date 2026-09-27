@@ -4,6 +4,7 @@
 **Dataset** Hotel Booking Demand (Kaggle: `jessemostipak/hotel-booking-demand`.)
 **Objetivo** ⭐  Predecir si una reserva será cancelada en el momento en que se realiza. 
 **Autor** Maria Elena Carralero
+**Video** [https://www.loom.com/share/11990bba94bf4a95aa666d3580a0c789](https://www.loom.com/share/11990bba94bf4a95aa666d3580a0c789)
 
 ## Carga y revisión inicial de los datos
 - Crear el DataFrame
